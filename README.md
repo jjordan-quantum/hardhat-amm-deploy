@@ -41,8 +41,8 @@ To test the deployment you can run the following 2 scripts:
 Note: You must update the router and token addresses in the scripts with those from the deployment steps.
 
 ```
- npx hardhat run --network localhost scripts/try-add-liquidity.js
- npx hardhat run --network localhost scripts/try-swap.js
+ npx hardhat run --network localhost scripts/3-try-add-liquidity.js
+ npx hardhat run --network localhost scripts/4-try-swap.js
 ```
 
 
